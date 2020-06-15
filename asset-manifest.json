@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TntWatches/static/css/main.fac33ac4.chunk.css",
+    "main.js": "/TntWatches/static/js/main.83eca9a6.chunk.js",
+    "main.js.map": "/TntWatches/static/js/main.83eca9a6.chunk.js.map",
+    "runtime-main.js": "/TntWatches/static/js/runtime-main.21d00ec7.js",
+    "runtime-main.js.map": "/TntWatches/static/js/runtime-main.21d00ec7.js.map",
+    "static/js/2.933200bc.chunk.js": "/TntWatches/static/js/2.933200bc.chunk.js",
+    "static/js/2.933200bc.chunk.js.map": "/TntWatches/static/js/2.933200bc.chunk.js.map",
+    "index.html": "/TntWatches/index.html",
+    "precache-manifest.0f126b00bf91de07a057c9ea52603935.js": "/TntWatches/precache-manifest.0f126b00bf91de07a057c9ea52603935.js",
+    "service-worker.js": "/TntWatches/service-worker.js",
+    "static/css/main.fac33ac4.chunk.css.map": "/TntWatches/static/css/main.fac33ac4.chunk.css.map",
+    "static/js/2.933200bc.chunk.js.LICENSE.txt": "/TntWatches/static/js/2.933200bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21d00ec7.js",
+    "static/js/2.933200bc.chunk.js",
+    "static/css/main.fac33ac4.chunk.css",
+    "static/js/main.83eca9a6.chunk.js"
+  ]
+}
